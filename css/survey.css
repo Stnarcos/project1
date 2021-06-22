@@ -1,0 +1,102 @@
+#header{
+    text-align: center;
+}
+body{
+    background-color: rgba(0, 247, 255, 0.753);
+}
+fieldset{
+    background-color: white;
+}
+#form{
+    text-align: center;
+}
+
+input[type="text"]{
+    padding: 3px 30px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    text-align: left;
+    margin: auto;
+    
+}
+
+
+input[type="number"]{
+    padding: 3px 30px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    text-align: left;
+    margin: auto;
+    
+}
+
+label[for=name]{
+    margin: auto;
+}
+
+.select-option{
+    text-align: center;
+    margin-left: -380px;
+}
+
+.radio-label{
+    text-align: center;
+    margin-left: -470px;
+    margin-top: -100px;
+
+}
+
+.radio-option{
+    text-align: center;
+    margin-left: -100px;
+}
+
+
+    
+.dropdown-option{
+    text-align: center;
+    
+}
+
+#checkbox{
+    text-align: center;
+
+}
+
+.checkbox{
+    margin-right: 290px;
+    background-position: 00px
+}
+
+label{
+    margin-right: 3px;
+}
+
+.checkbox-head{
+    margin-left: -500px;
+    margin-bottom: 300px;
+}
+
+.checkbox-option{
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+#form{
+    text-align: center;
+    padding-top: 10px;
+}
+
+fieldset{
+    margin: 20px 30px;
+}
+
+
+
+
+

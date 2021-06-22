@@ -1,0 +1,92 @@
+#they-word{
+    text-align: center;
+}
+
+input[type="text"]{
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: rgb(177, 174, 174);
+}
+
+input[type="password"]{
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: rgb(177, 174, 174);
+}
+
+
+
+
+#header{
+    background-color: rgba(202, 188, 188, 0.336);
+    /* background-image: linear-gradient(to right, rgba(202, 188, 188, 0.336), rgba(14, 10, 10, 0.815); */
+    margin-top: 20px;
+    margin-bottom: -20px;
+    background-image: linear-gradient(to right, rgb(102, 92, 109),  rgba(146, 133, 156, 0.76), rgba(70, 64, 83, 0.562), rgb(4, 4, 29));
+    
+    
+}
+
+fieldset{
+    margin: 0px 510px;
+    border: hidden;
+    border-radius: 20px 00px;
+}
+
+hr{
+    height: 00px;
+    border-style: dotted;
+    color: rgb(177, 174, 174);
+
+
+}
+
+#form{
+    background-color: rgb(9, 11, 24);
+}
+
+.sign-up{
+    background-color: rgb(73, 73, 199);
+    color: white;
+    margin-left: -180px;
+    border-radius: 5px;
+    height: 35px;
+    width: 80px;
+}
+
+small{
+    color: rgb(177, 174, 174);
+}
+
+p{
+    color: rgb(177, 174, 174);
+}
+
+label[for="name"]{
+    margin-left: -200px;
+}
+
+body{
+    background-color: rgba(151, 148, 148, 0.288);
+    background-image: linear-gradient(to right, rgb(49, 13, 75),  rgb(115, 17, 185), rgb(85, 48, 172), blue);
+}
+h3{
+    color: rgb(177, 174, 174);
+}
+
+.sign-in{
+    color: white;
+    background-position: grey;
+    border: hidden;
+    width: 250px;
+    height: 30px;
+    font-family: serif;
+    font-size: 15px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, rgb(41, 38, 43),  rgba(146, 133, 156, 0.76), rgba(70, 64, 83, 0.562), rgb(4, 4, 29));
+}
+input[type="checkbox"]{
+    border-radius: 10px;
+}

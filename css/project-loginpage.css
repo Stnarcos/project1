@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    font-size: 20px;
+    margin: 120px 400px;
+    background-color: rgb(55, 172, 100);
+    
+     
+}
+
+fieldset{
+    background-color: white;
+}
+
+button{
+    width: 260px;
+    height: 40px;
+    background-color:rgb(55, 172, 100);
+    background-image: radial-gradient( rgb(19, 165, 19) rgb(154, 236, 154));
+    color: white;
+    font-size: 15px;
+}
+
+#login{
+    width: 250px;
+    height: 30px;
+    border: aliceblue ;
+    border-style: solid;
+    
+}
+
+a{
+    text-decoration: none;
+}

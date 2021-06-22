@@ -1,0 +1,72 @@
+.facebook{
+    border-radius: 80px;
+    width: 35px;
+    height: 35px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    border-color: blue;
+    
+}
+
+h2{
+    font-size: -30px ;
+    margin-top: -0px;
+    font-family: cursive;
+}
+
+.google{
+    border-radius: 80px;
+    width: 35px;
+    height: 35px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    border-color: red;
+    
+}
+
+a{
+    text-decoration: none;
+    color: grey;
+}
+
+small{
+    color: grey;
+    margin-right: 210px;
+}
+
+fieldset{
+    text-align: center;
+    margin: 120px 510px;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.redirect{
+    margin-left: 160px   ;
+}
+
+input{
+    width: 250px;
+    height: 25px;
+    background-color: rgb(167, 190, 190);
+    border: hidden;
+    cursor: pointer;
+}
+
+.login{
+    width: 250px;
+    height: 25px;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(118, 59, 160);
+    background-image: linear-gradient(to right, rgb(49, 13, 75),  rgb(115, 17, 185), rgb(85, 48, 172), blue);
+}
+
+body{
+    background-color: rgb(118, 59, 160);
+    background-image: linear-gradient(to right, rgb(49, 13, 75),  rgb(115, 17, 185), rgb(85, 48, 172), blue);
+}
+
+   
